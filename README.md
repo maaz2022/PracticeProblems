@@ -1,3 +1,3 @@
-# JavaPracticePrograms
+# PracticePrograms
 
 Problems from LeetCode to practice DSA and learning JavaScript...
